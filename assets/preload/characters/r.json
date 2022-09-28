@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "R idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "R note left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "R note down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "R note up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "R note right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "R idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "angry",
+			"loop": false,
+			"name": "R angry"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/R_Sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "r",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		54,
+		71
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
