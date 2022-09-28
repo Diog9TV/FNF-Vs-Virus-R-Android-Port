@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "cyber2",
+		"player1": "bf-r",
+		"player2": "acesora",
+		"player3": null,
+		"events": [
+			[
+				63152.1739130435,
+				[
+					[
+						"Play Animation",
+						"smile",
+						"acesora"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-tv-ace",
+		"bpm": 138,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "The battle of robbery"
+	}
+}
