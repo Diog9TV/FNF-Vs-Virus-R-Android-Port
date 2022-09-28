@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "cyber",
+		"player1": "bf-r",
+		"player2": "r",
+		"player3": null,
+		"events": [
+			[
+				92531.25,
+				[
+					[
+						"Play Animation",
+						"angry",
+						"r"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-tv-r",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Invade"
+	}
+}
