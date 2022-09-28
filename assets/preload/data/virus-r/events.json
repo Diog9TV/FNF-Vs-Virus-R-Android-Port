@@ -1,0 +1,84 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "window",
+		"player1": "bf-virus",
+		"player2": "r-window",
+		"player3": null,
+		"events": [
+			[
+				28125,
+				[
+					[
+						"Change Character",
+						"1",
+						"r-window-alt"
+					],
+					[
+						"Play Animation",
+						"black",
+						"r-window-alt"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Change Character",
+						"1",
+						"r-window"
+					]
+				]
+			],
+			[
+				208125,
+				[
+					[
+						"Change Character",
+						"1",
+						"r-window-alt"
+					],
+					[
+						"Play Animation",
+						"black",
+						"r-window-alt"
+					]
+				]
+			],
+			[
+				210000,
+				[
+					[
+						"Change Character",
+						"1",
+						"r-window"
+					]
+				]
+			],
+			[
+			    330000,
+				[
+				    [
+						"Change Character",
+						"1",
+						"r-window-alt"
+					],
+					[
+						"Play Animation",
+						"smile",
+						"r-window-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "invisible-gf",
+		"bpm": 128,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Virus R"
+	}
+}
